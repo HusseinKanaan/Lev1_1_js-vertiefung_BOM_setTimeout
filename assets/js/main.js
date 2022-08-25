@@ -23,4 +23,3 @@ const feierabendCountdown = setInterval(function () {
 }, 1000);
 
 
-
